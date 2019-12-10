@@ -26,7 +26,7 @@ p {
   max-width: 80%;
   height: auto;
 }
-
+.friends {max-width: 90%;}
 .top {
   background-image: linear-gradient(to top, #006369, #f0c9c9 80%);
   background-color: #f0c9c9;
